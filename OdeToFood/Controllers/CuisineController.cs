@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OdeToFood.Filters;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -6,14 +7,15 @@ using System.Web.Mvc;
 
 namespace OdeToFood.Controllers
 {
+    [Log]
     public class CuisineController : Controller
     {
-        // GET: Cuisine
-        public ActionResult Search(string name="french")
+        public ActionResult Search(string name = "french")
         {
+            throw new Exception("Something terrible has happened");
             var message = Server.HtmlEncode(name);
 
-            return Json(new { Message = message, name = "Scott" }, JsonRequestBehavior.AllowGet);
+            return Content(message);
         }
     }
 }
