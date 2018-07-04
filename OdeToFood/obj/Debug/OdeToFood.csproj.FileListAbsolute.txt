@@ -162,3 +162,5 @@ D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccoun
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.dll
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.pdb
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.Migrations.InitialCreate.resources
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
