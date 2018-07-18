@@ -1,13 +1,10 @@
 namespace OdeToFood.Migrations
 {
     using Models;
-    using System;
     using System.Collections.Generic;
-    using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<OdeToFood.Models.OdeToFoodDb>
+    internal sealed class Configuration : DbMigrationsConfiguration<OdeToFoodDb>
     {
         public Configuration()
         {
@@ -15,7 +12,7 @@ namespace OdeToFood.Migrations
             ContextKey = "OdeToFood.Models.OdeToFoodDb";
         }
 
-        protected override void Seed(OdeToFood.Models.OdeToFoodDb context)
+        protected override void Seed(OdeToFoodDb context)
         {
             context.Restaurants.AddOrUpdate(r => r.Name,
                 new Restaurant { Name = "Sabatino's", City = "Baltimore", Country = "USA" },

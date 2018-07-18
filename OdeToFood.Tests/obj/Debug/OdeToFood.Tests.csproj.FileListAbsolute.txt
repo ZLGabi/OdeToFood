@@ -74,6 +74,8 @@ D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.Qual
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\PagedList.dll
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\PagedList.Mvc.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\System.Web.Helpers.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\System.Web.Mvc.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\System.Web.Razor.dll
@@ -91,6 +93,8 @@ D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.E
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\EntityFramework.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\PagedList.xml
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\PagedList.Mvc.xml
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\System.Web.Helpers.xml
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\System.Web.Mvc.xml

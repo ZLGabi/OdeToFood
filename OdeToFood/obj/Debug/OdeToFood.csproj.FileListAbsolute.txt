@@ -122,6 +122,8 @@ D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\Newtonsoft.Json.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\Owin.dll
+D:\Training\OdeToFood\repo\OdeToFood\bin\PagedList.dll
+D:\Training\OdeToFood\repo\OdeToFood\bin\PagedList.Mvc.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Helpers.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Mvc.dll
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Optimization.dll
@@ -136,6 +138,8 @@ D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.AI.Web.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.ApplicationInsights.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\OdeToFood\repo\OdeToFood\bin\PagedList.xml
+D:\Training\OdeToFood\repo\OdeToFood\bin\PagedList.Mvc.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Helpers.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Mvc.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\System.Web.Optimization.xml
@@ -159,8 +163,8 @@ D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Training\OdeToFood\repo\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
-D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.dll
-D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.pdb
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.Migrations.InitialCreate.resources
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.dll
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.pdb
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
