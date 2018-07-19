@@ -168,3 +168,9 @@ D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.dll
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.pdb
 D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+D:\Training\OdeToFood\repo\OdeToFood\bin\fr\OdeToFood.resources.dll
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.Views.Home.Resources.resources
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\OdeToFood.Views.Home.Resources.fr.resources
+D:\Training\OdeToFood\repo\OdeToFood\obj\Debug\fr\OdeToFood.resources.dll
+D:\Training\OdeToFood\repo\OdeToFood\bin\Elmah.dll
+D:\Training\OdeToFood\repo\OdeToFood\bin\Elmah.Mvc.dll

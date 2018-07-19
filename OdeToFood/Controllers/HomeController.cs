@@ -1,9 +1,6 @@
 ﻿using OdeToFood.Models;
 using PagedList;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace OdeToFood.Controllers
@@ -24,6 +21,7 @@ namespace OdeToFood.Controllers
             return Json(model, JsonRequestBehavior.AllowGet);
         }
 
+        [OutputCache(CacheProfile = "Long", VaryByHeader ="X-Requested-With;Accept-Language", Location = System.Web.UI.OutputCacheLocation.Server)]
         public ActionResult Index(string searchTerm = null, int page = 1)
         {
             var model =

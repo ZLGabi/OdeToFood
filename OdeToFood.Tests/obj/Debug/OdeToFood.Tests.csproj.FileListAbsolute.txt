@@ -114,3 +114,6 @@ D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Host.SystemW
 D:\Training\OdeToFood\repo\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
 D:\Training\OdeToFood\repo\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\fr\OdeToFood.resources.dll
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Elmah.dll
+D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Elmah.Mvc.dll
