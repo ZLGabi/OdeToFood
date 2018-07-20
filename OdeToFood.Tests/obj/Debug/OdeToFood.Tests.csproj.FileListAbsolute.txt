@@ -70,7 +70,6 @@ D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\roslyn\VBCSCompiler.exe.con
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
-D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
 D:\Training\OdeToFood\repo\OdeToFood.Tests\bin\Debug\OdeToFood.dll
