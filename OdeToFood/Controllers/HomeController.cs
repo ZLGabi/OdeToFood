@@ -1,5 +1,6 @@
 ﻿using OdeToFood.Models;
 using PagedList;
+using System.Configuration;
 using System.Linq;
 using System.Web.Mvc;
 
@@ -46,6 +47,8 @@ namespace OdeToFood.Controllers
                     Country = r.Country,
                     CountOfReviews = r.Reviews.Count()
                 }).ToPagedList(page,10);
+
+            ViewBag.MailServer = ConfigurationManager.AppSettings["MailServer"];
 
             if(Request.IsAjaxRequest())
             {
